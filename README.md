@@ -1,2 +1,2 @@
 # -xo-game-
-wep designer 
+game you can play with your frind or your family
